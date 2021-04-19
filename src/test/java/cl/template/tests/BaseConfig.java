@@ -82,7 +82,7 @@ public class BaseConfig {
 				return;
 			} else {
 				String message;
-				RestAssured.baseURI = "http://127.0.0.1:5050";
+				RestAssured.baseURI = "http://192.168.1.109:5050";
 				RequestSpecification request = RestAssured.given();
 
 				JSONObject json = new JSONObject();
