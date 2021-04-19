@@ -5,8 +5,6 @@
   <test name="Test Selenium">
 	 <classes>
 	   <class name="cl.template.tests.TestSelenium"/>
-	   <class name="cl.template.tests.TestSelenium2"/>
-	   <class name="cl.template.tests.TestSelenium3"/>
 	 </classes>
    </test>
 
